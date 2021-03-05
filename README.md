@@ -2,11 +2,13 @@
 
 Olá, me chamo Andrei, sou estudante de Ciência da Computação na Universidade Federal de Pelotas, muito determinado e apaixonado por tecnologia. 
 
-Me dedico muito a minha evolução como programador, sempre buscando diferentes tecnologias, tanto na faculdade com Python, C e Java, como atualmente me aventurando com NodeJS, React e ReactNative.
+Me dedico muito a minha evolução como programador, sempre buscando diferentes tecnologias, tanto na faculdade com Python, C e Java, como atualmente me aventurando com NodeJS e React.
 
  📍   Pelotas RS
  
-👨‍💻 Desenvolvedor em Formação
+ 
+ 
+ 👨‍💻   Software Developer Trainee at [SoftDesign](https://softdesign.com.br/)
 
 #### Me encontre em: 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmajada)        [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreimajada@gmail.com)
