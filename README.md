@@ -1,14 +1,18 @@
-## Seja bem vindo(a)!
+## Welcome!
 
-Olá, me chamo Andrei, sou estudante de Ciência da Computação na Universidade Federal de Pelotas, muito determinado e apaixonado por tecnologia. 
+Andrei is a dedicated software developer with 2 years of experience working on a variety of development
+projects. He has built a variety of interfaces and API’s for national clients. He is skilled at back-end
+development with NodeJS and NestJS.
 
-Me dedico muito a minha evolução como programador, sempre buscando diferentes tecnologias, tanto na faculdade com Python, C e Java, como atualmente me aventurando com NodeJS e React.
+His experience enables
+him to get involved in the entire development process and get a full vision of the projects and environment.
+
 
  📍   Pelotas RS
  
  
  
- 👨‍💻   Software Developer Trainee at [SoftDesign](https://softdesign.com.br/)
+ 👨‍💻   Software Developer at Quiq
 
 #### Me encontre em: 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asmajada)        [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreimajada@gmail.com)
