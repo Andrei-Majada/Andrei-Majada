@@ -1,11 +1,11 @@
 ## Welcome!
 
-Andrei is a dedicated software developer with 2 years of experience working on a variety of development
+Andrei is a dedicated software developer with over 2 years of experience working on a variety of development
 projects. He has built a variety of interfaces and API’s for national clients. He is skilled at back-end
-development with NodeJS and NestJS.
+development with NodeJS and NestJS and front-end with React.
 
-His experience enables
-him to get involved in the entire development process and get a full vision of the projects and environment.
+My experience enables
+me to get involved in the entire development process and get a full vision of the projects and environment.
 
 
  📍   Pelotas RS
@@ -38,4 +38,4 @@ him to get involved in the entire development process and get a full vision of t
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </ul>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Majada)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrei-Majada)](https://github.com/anuraghazra/github-readme-stats) -->
