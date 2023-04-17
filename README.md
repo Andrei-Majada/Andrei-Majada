@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Andrei is a dedicated software developer with over 2 years of experience working on a variety of development projects. He has built a variety of interfaces and API’s for national clients. He is skilled at back-end development with NodeJS and NestJS and front-end with React.<br><br>My experience enables me to get involved in the entire development process and get a full vision of the projects and environment.
 
 
